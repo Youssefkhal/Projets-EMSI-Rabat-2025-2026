@@ -198,7 +198,7 @@ this.detectionRadius = 200;        // Rayon de détection
    - Utilise `seek` vers ce centre
 4. Retourne la force de seek
 
-#### `avoid(obstacles)` ⭐ **ALGORITHME COMPLEXE**
+#### `avoid(obstacles)` 
 **Logique détaillée (évitement d'obstacles avec vecteur ahead) :**
 
 1. **Vérification initiale :**
