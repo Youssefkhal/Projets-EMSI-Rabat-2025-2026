@@ -1,13 +1,9 @@
 # SPACE SHOOTER - Documentation Complète du Projet
 Realisé Par Youssef Khallouqi ET Mohamed Wael Addoul
-## 📋 Table des Matières
-
-
-
 https://github.com/user-attachments/assets/f0fff767-91e7-4efe-b684-d12ed0e6d9db
 
 
-
+## 📋 Table des Matières
 1. [Vue d'Ensemble](#vue-densemble)
 2. [Architecture du Projet](#architecture-du-projet)
 3. [Classe Vehicle - Comportements de Steering](#classe-vehicle)
